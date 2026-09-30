@@ -1,0 +1,7 @@
+shot,representation,accuracy_mean,macro_f1_mean
+1,image_only,0.154375,0.127261
+1,image_plus_metadata,0.178125,0.1345653165696779
+3,image_only,0.139375,0.109069
+3,image_plus_metadata,0.26625,0.18057065962896524
+5,image_only,0.133125,0.097823
+5,image_plus_metadata,0.22937500000000002,0.14791067444000963

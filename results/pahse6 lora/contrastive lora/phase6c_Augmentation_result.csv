@@ -1,0 +1,2 @@
+run_name,use_augmentation,use_focal_loss,n_epochs,accuracy,macro_f1,best_val_f1
+Augmentation,True,False,10,0.240625,0.17240568620639865,0.19215237776309393

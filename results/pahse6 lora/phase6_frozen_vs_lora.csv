@@ -1,0 +1,3 @@
+representation,accuracy,macro_f1
+frozen_eyeclip_phase1,0.3063,0.2469
+lora_eyeclip,0.2375,0.1658507217720469

@@ -1,0 +1,4 @@
+representation,accuracy,macro_f1
+image_only_phase1,0.3063,0.2469
+image_plus_metadata_phase3,0.3188,0.2174
+image_plus_metadata_plus_text,0.99375,0.9621266233766234
